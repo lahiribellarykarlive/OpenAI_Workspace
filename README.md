@@ -1,7 +1,5 @@
 # OpenAI_Workspace: GenAI Use Cases demo
 
-# GenAI Project
-
 This project demonstrates the capabilities of GenAI through two distinct use cases:
 
 1. **Translate PIR into a Knowledge Base Article**
@@ -33,5 +31,19 @@ To run this project, you need the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/genai-project.git
-   cd genai-project
+   git clone https://github.com/lahiribellarykarlive/OpenAI_Workspace
+
+## Configuration
+Ensure that the required properties files are properly configured:
+
+1. **kbase.properties for openaikbasearticle.py**
+2. **todoaction.properties for openaitodoaction.py**
+   
+## For translating PIR into a knowledge base article
+python openaikbasearticle.py
+
+## For extracting TODO actions from Microsoft Teams transcript
+python openaitodoaction.py
+
+
+
