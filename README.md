@@ -20,8 +20,10 @@ The project consists of two Python scripts:
    - Returns the OpenAI JSON output, containing TODO actions extracted from the Teams meeting transcript
 3. **For an overview of the project please check this video**
       https://clipchamp.com/watch/xgIxVDj4nzh
-4. **To Know how openaikbasearticle.py works please check this video**
+4. **To know how openaikbasearticle.py works please check this video**
       https://clipchamp.com/watch/Euqznm8vzDJ
+5. **To know how openaitodoaction.py works please check this video**
+      https://clipchamp.com/watch/wuWh1pdNSH0
 ## Prerequisites
 
 To run this project, you need the following:
