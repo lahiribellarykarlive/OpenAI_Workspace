@@ -18,7 +18,10 @@ The project consists of two Python scripts:
    - Reads input from `todoaction.properties`
    - Accepts prompts and Microsoft Teams transcript as input
    - Returns the OpenAI JSON output, containing TODO actions extracted from the Teams meeting transcript
-
+3. **For an overview of the project please check this video**
+      https://clipchamp.com/watch/xgIxVDj4nzh
+4. **To Know how openaikbasearticle.py works please check this video**
+      https://clipchamp.com/watch/Euqznm8vzDJ
 ## Prerequisites
 
 To run this project, you need the following:
